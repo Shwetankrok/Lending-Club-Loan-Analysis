@@ -1,4 +1,4 @@
-# Lending-Club-Loan-Analysis
+# Lending-Club-Loan-Analysis Spark
 <b>Analyzing data about loan provided to borrowers by Lending Club Company for different reasons</b>
 
 # Data
