@@ -1,5 +1,5 @@
 # Lending-Club-Loan-Analysis
-Analyzing data about loan provided to borrowers by Lending Club Company for different reasons
+<b>Analyzing data about loan provided to borrowers by Lending Club Company for different reasons</b>
 
 # Data
 <b><br> Data is about loans provided by Lending Club from year 2007 - 2017 with details about loan taken by borrowers. Dataset can be downloaded from  here: https://www.kaggle.com/husainsb/lendingclub-issued-loans </b></br>
